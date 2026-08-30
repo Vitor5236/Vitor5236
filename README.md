@@ -203,4 +203,4 @@ Designing cloud-native data platforms, sharpening multi-cloud architecture, and 
   </tr>
 </table>
 
-<sub>ℹ️ Repositories here are <b>personal / portfolio projects</b> built to demonstrate technical capability. They are clearly separated from professional experience, which lives on my <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-dourado07">LinkedIn</a>.</sub>
+<sub>ℹ️ Repositories here are <b>personal / portfolio projects</b> built to demonstrate technical capability. They are clearly separated from professional experience, which lives on my <a href="https://www.linkedin.com/in/joao-v-dourado/">LinkedIn</a>.</sub>
