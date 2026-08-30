@@ -121,7 +121,7 @@ I like the full arc of a problem: **understand the business need → design the 
 | # | Project | What it demonstrates | Stack | Status |
 |---|---------|----------------------|-------|--------|
 | 1 | **[Market & Economic Data Platform](https://github.com/Vitor5236/br-market-data-platform)** | End-to-end ELT: Banco Central + CVM → lake → warehouse, data quality, tests & IaC | Python · dbt · DuckDB/BigQuery · Terraform · CI/CD | 🟢 Live |
-| 2 | **Cloud Data Engineering (GCP)** | Cloud-native pipeline on GCP with least-privilege IAM | Cloud Storage · BigQuery · Cloud Run · Terraform | ⚪ Planned |
+| 2 | **[GCP Market Data Pipeline](https://github.com/Vitor5236/gcp-market-data-pipeline)** | Serverless GCP pipeline: Cloud Run → GCS → BigQuery, scheduled, keyless CI (Workload Identity Federation) | Cloud Run · GCS · BigQuery · Terraform · CI/CD | 🟢 Live |
 | 3 | **Azure Data Platform** | Multi-cloud proof — equivalent solution on Azure | Blob Storage · Functions · Synapse · Entra ID | ⚪ Planned |
 | 4 | **API + Data Pipeline** | Public API → processing → own REST API → analytics | Python · FastAPI · PostgreSQL · Docker | ⚪ Planned |
 | 5 | **Data + AI / RAG** | Retrieval-augmented LLM app with evaluation & observability | Embeddings · Vector DB · LLM · FastAPI | ⚪ Planned |
