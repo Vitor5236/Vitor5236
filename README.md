@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-dourado07"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/joao-v-dourado/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Based%20in-Sumar%C3%A9%2C%20BR-334155?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Focus-Data%20Platforms%20%26%20Cloud-22D3EE?style=flat-square" alt="Focus"/>
 </p>
