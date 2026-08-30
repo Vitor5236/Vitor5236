@@ -123,7 +123,7 @@ I like the full arc of a problem: **understand the business need → design the 
 | 1 | **[Market & Economic Data Platform](https://github.com/Vitor5236/br-market-data-platform)** | End-to-end ELT: Banco Central + CVM → lake → warehouse, data quality, tests & IaC | Python · dbt · DuckDB/BigQuery · Terraform · CI/CD | 🟢 Live |
 | 2 | **[GCP Market Data Pipeline](https://github.com/Vitor5236/gcp-market-data-pipeline)** | Serverless GCP pipeline: Cloud Run → GCS → BigQuery, scheduled, keyless CI (Workload Identity Federation) | Cloud Run · GCS · BigQuery · Terraform · CI/CD | 🟢 Live |
 | 3 | **[Azure Market Data Pipeline](https://github.com/Vitor5236/azure-market-pipeline)** | Multi-cloud proof — Azure Function → ADLS Gen2 → Synapse serverless, Entra ID Managed Identity | Azure Functions · ADLS Gen2 · Synapse · Entra ID · Terraform | 🟢 Live |
-| 4 | **API + Data Pipeline** | Public API → processing → own REST API → analytics | Python · FastAPI · PostgreSQL · Docker | ⚪ Planned |
+| 4 | **[Market Insights API](https://github.com/Vitor5236/market-insights-api)** | Public API → processing → PostgreSQL → authenticated FastAPI analytics API + dashboard | FastAPI · SQLAlchemy · PostgreSQL · Docker | 🟢 Live |
 | 5 | **[Market RAG Assistant](https://github.com/Vitor5236/market-rag-assistant)** | RAG over an economic-indicators KB — retrieval + evaluation (hit@k / MRR), grounded Claude answers | Qdrant · Embeddings · Claude · FastAPI | 🟢 Live |
 | 6 | **Software + Data** | Full-stack, data-driven product with auth & CI/CD | React · TypeScript · Supabase · Cloud | ⚪ Planned |
 
