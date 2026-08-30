@@ -116,7 +116,7 @@ I like the full arc of a problem: **understand the business need → design the 
 ## Featured Projects
 
 > A portfolio designed to tell one story — **Data → Engineering → Cloud → Architecture → Software → AI**.
-> These are **personal / portfolio projects** built to demonstrate capability (see the note at the bottom). Cases are shipping across this portfolio right now — each becomes a full case study with problem, architecture, trade-offs and results.
+> These are **personal / portfolio projects** built to demonstrate capability (see the note at the bottom). Each is a full case study — problem, architecture, trade-offs and results — with CI, tests and (where cloud is involved) Infrastructure as Code.
 
 | # | Project | What it demonstrates | Stack | Status |
 |---|---------|----------------------|-------|--------|
@@ -125,7 +125,7 @@ I like the full arc of a problem: **understand the business need → design the 
 | 3 | **[Azure Market Data Pipeline](https://github.com/Vitor5236/azure-market-pipeline)** | Multi-cloud proof — Azure Function → ADLS Gen2 → Synapse serverless, Entra ID Managed Identity | Azure Functions · ADLS Gen2 · Synapse · Entra ID · Terraform | 🟢 Live |
 | 4 | **[Market Insights API](https://github.com/Vitor5236/market-insights-api)** | Public API → processing → PostgreSQL → authenticated FastAPI analytics API + dashboard | FastAPI · SQLAlchemy · PostgreSQL · Docker | 🟢 Live |
 | 5 | **[Market RAG Assistant](https://github.com/Vitor5236/market-rag-assistant)** | RAG over an economic-indicators KB — retrieval + evaluation (hit@k / MRR), grounded Claude answers | Qdrant · Embeddings · Claude · FastAPI | 🟢 Live |
-| 6 | **Software + Data** | Full-stack, data-driven product with auth & CI/CD | React · TypeScript · Supabase · Cloud | ⚪ Planned |
+| 6 | **[ClickEays — Field-Service CRM](https://github.com/Vitor5236/crm)** | Full-stack CRM (clients, visits, warranties, loyalty) — RLS, unit-tested business logic, CI | React · TypeScript · Supabase · Electron | 🟢 Live |
 
 <sub>Legend: 🟢 Live · 🟡 Building · ⚪ Planned — this table updates as each case ships.</sub>
 
